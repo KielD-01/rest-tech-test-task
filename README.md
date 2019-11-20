@@ -1,4 +1,4 @@
-# Test Task for Hendrikus   
+# Multi-Tenancy Test Task
 
 ## How to set it up?    
 
